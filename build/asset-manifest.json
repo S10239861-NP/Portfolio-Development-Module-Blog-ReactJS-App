@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Development-Module-Blog-ReactJS-App/static/css/main.b9d90b4b.css",
+    "main.js": "/Portfolio-Development-Module-Blog-ReactJS-App/static/js/main.09778eaf.js",
+    "static/js/787.dfad1ebf.chunk.js": "/Portfolio-Development-Module-Blog-ReactJS-App/static/js/787.dfad1ebf.chunk.js",
+    "static/media/android-chrome-512x512.png": "/Portfolio-Development-Module-Blog-ReactJS-App/static/media/android-chrome-512x512.48f5f32c7bed231b7581.png",
+    "index.html": "/Portfolio-Development-Module-Blog-ReactJS-App/index.html",
+    "main.b9d90b4b.css.map": "/Portfolio-Development-Module-Blog-ReactJS-App/static/css/main.b9d90b4b.css.map",
+    "main.09778eaf.js.map": "/Portfolio-Development-Module-Blog-ReactJS-App/static/js/main.09778eaf.js.map",
+    "787.dfad1ebf.chunk.js.map": "/Portfolio-Development-Module-Blog-ReactJS-App/static/js/787.dfad1ebf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9d90b4b.css",
+    "static/js/main.09778eaf.js"
+  ]
+}
