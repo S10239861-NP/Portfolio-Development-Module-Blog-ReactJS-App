@@ -2,7 +2,7 @@ import React from "react";
 
 import "./BlogShell.css";
 
-import logo from "./favicon_io/android-chrome-512x512.png";
+import logo from "../../favicon_io/android-chrome-512x512.png";
 
 class BlogShell extends React.Component
 {
@@ -126,7 +126,7 @@ class BlogShell extends React.Component
 
     onViewGitHubRepoButtonMouseDown()
     {
-        window.open("https://github.com/S10239861-NP/Portfolio-Development-Module-Blog", "_blank");
+        window.open("https://github.com/S10239861-NP/Portfolio-Development-Module-Blog-ReactJS-App", "_blank");
     }
 }
 

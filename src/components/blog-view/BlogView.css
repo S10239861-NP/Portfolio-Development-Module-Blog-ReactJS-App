@@ -1,0 +1,31 @@
+.blog-view {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    padding: 0px 20px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.ul-1 {
+    padding-left: 16px;
+}
+
+.ol-1 {
+    padding-left: 16px;
+}
+
+.li-1 {
+    margin-bottom: 6px;
+}
+
+.list-element-child-container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 0px;
+}
+
+

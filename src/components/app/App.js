@@ -2,13 +2,13 @@ import React from 'react';
 
 import './App.css';
 
-import BlogShell from './BlogShell';
+import BlogShell from '../blog-shell/BlogShell.js';
 
-import HomeView from "./HomeView.js";
+import HomeView from "../home-view/HomeView.js";
 
-import BlogView from "./BlogView.js";
+import BlogView from "../blog-view/BlogView.js";
 
-import ContactView from "./ContactView.js";
+import ContactView from "../contact-view/ContactView.js";
 
 class App extends React.Component
 {

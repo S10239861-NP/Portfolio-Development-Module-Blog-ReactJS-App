@@ -1,6 +1,6 @@
 import React from "react";
 
-import BlogPostCard from "./BlogPostCard.js";
+import BlogPostCard from "../blog-post-card/BlogPostCard";
 
 class HomeView extends React.Component
 {
