@@ -1,7 +1,7 @@
 # Portfolio Development Module Blog ReactJS App
 
 ## Notes:
-- The **"build"** folder contains the code and resources to be deployed to the production branch, the **"public"** folder contains the code and resources to be deployed to the development branch.
+- The **"prod-build"** folder contains the code and resources to be deployed to the production branch, the **"dev-build"** folder contains the code and resources to be deployed to the development branch.
 
 ## Dependencies:
 - **webpack** was used to resolve imports in the JS files of the project and to bundle the JS files together into 1 or more JS files (currently just 1 JS file named "index.js" containing all of the code to be executed for the landing page of the blog, which is the only page that the blog currently has), "webpack-cli" requires that "webpack" be installed as a dependency in the project too.
