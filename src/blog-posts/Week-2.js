@@ -4,22 +4,22 @@ export default (
     <BlogPostCard header="Week 2" readMoreEnabled="true">
         <h3><u>Things that I learnt this week</u></h3>
 
-        <ul class="ul-1">
-            <li class="li-1">
-                <div class="list-element-child-container">
+        <ul className="ul-1">
+            <li className="li-1">
+                <div className="list-element-child-container">
                     <p>What an inception deck is</p>
 
-                    <ul class="ul-1">
+                    <ul className="ul-1">
                         <li>An inception deck is a collection of visual representations that give team members a general overview of the project as well as information about various aspects of the project, such as its constraints, complexity and scope.</li>
                     </ul>
                 </div>
             </li>
 
-            <li class="li-1">
-                <div class="list-element-child-container">
+            <li className="li-1">
+                <div className="list-element-child-container">
                     <p>The parts of an inception deck, which are:</p>
 
-                    <ul class="ul-1">
+                    <ul className="ul-1">
                         <li>The goal that the project seeks to achieve</li>
 
                         <li>The elevator pitch which is a brief explanation and quick rundown of the project</li>
@@ -43,31 +43,31 @@ export default (
                 </div>
             </li>
 
-            <li class="li-1">
-                <div class="list-element-child-container">
+            <li className="li-1">
+                <div className="list-element-child-container">
                     <p>What design thinking is</p>
 
-                    <ul class="ul-1">
+                    <ul className="ul-1">
                         <li>Design thinking is a design methodology that provides a more human-centric approach to solving problems in the real world.</li>
                     </ul>
                 </div>
             </li>
 
-            <li class="li-1">
-                <div class="list-element-child-container">
+            <li className="li-1">
+                <div className="list-element-child-container">
                     <p>The reasons for why design thinking is needed</p>
 
-                    <ul class="ul-1">
+                    <ul className="ul-1">
                         <li>Design thinking is needed because it can help us to tackle problems that are much more ill-defined or even undefined in a way that prioritizes the needs of the people that will be impacted by it, in other words, the end users.</li>
                     </ul>
                 </div>
             </li>
 
-            <li class="li-1">
-                <div class="list-element-child-container">
+            <li className="li-1">
+                <div className="list-element-child-container">
                     <p>The various phases of design thinking, which are:</p>
 
-                    <ul class="ul-1">
+                    <ul className="ul-1">
                         <li>Empathizing</li>
 
                         <li>Defining</li>
@@ -84,7 +84,7 @@ export default (
 
         <h3><u>How can I apply what I have learnt this week to the PFD project</u></h3>
 
-        <ul class="ul-1">
+        <ul className="ul-1">
             <li>I can create an inception deck and make use of it to enable me and my teammates to have a better understanding of the general aspects of the project, such as the constraints we will have to work with, the scope of this project, and how complex it could potentially get.</li>
 
             <li>I can use the design thinking principles to ensure that the product that we will be producing at the end of the PDF project will truly be capable of benefitting our target end users.</li>
@@ -96,7 +96,7 @@ export default (
 
         <h3><u>My progress on the PFD project so far</u></h3>
 
-        <ul class="ul-1">
+        <ul className="ul-1">
             <li>Finished setting up the version control system that will be used for the Kato Android application (we will be using Git for version control).</li>
 
             <li>

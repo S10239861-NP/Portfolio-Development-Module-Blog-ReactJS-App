@@ -2,7 +2,7 @@ import React from "react";
 
 import "./BlogShell.css";
 
-import logo from "../../favicon_io/android-chrome-512x512.png";
+import logo from "../../assets/logo.png";
 
 class BlogShell extends React.Component
 {

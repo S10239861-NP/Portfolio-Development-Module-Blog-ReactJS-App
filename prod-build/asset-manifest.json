@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Development-Module-Blog-ReactJS-App/static/css/main.2d481e26.css",
+    "main.js": "/Portfolio-Development-Module-Blog-ReactJS-App/static/js/main.4057ef88.js",
+    "static/js/787.dfad1ebf.chunk.js": "/Portfolio-Development-Module-Blog-ReactJS-App/static/js/787.dfad1ebf.chunk.js",
+    "static/media/Week-4-Trello-Board-Snapshot.png": "/Portfolio-Development-Module-Blog-ReactJS-App/static/media/Week-4-Trello-Board-Snapshot.9637870f2b7edddb8ec3.png",
+    "static/media/Week-3-Trello-Board-Snapshot.png": "/Portfolio-Development-Module-Blog-ReactJS-App/static/media/Week-3-Trello-Board-Snapshot.2b463eb9e02dc7bcc637.png",
+    "static/media/System-Diagrams-SS-2.png": "/Portfolio-Development-Module-Blog-ReactJS-App/static/media/System-Diagrams-SS-2.93c63f23dbd2e723761f.png",
+    "static/media/System-Diagrams-SS-1.png": "/Portfolio-Development-Module-Blog-ReactJS-App/static/media/System-Diagrams-SS-1.1d556bd4e2b0fef30097.png",
+    "static/media/android-chrome-512x512.png": "/Portfolio-Development-Module-Blog-ReactJS-App/static/media/android-chrome-512x512.48f5f32c7bed231b7581.png",
+    "index.html": "/Portfolio-Development-Module-Blog-ReactJS-App/index.html",
+    "main.2d481e26.css.map": "/Portfolio-Development-Module-Blog-ReactJS-App/static/css/main.2d481e26.css.map",
+    "main.4057ef88.js.map": "/Portfolio-Development-Module-Blog-ReactJS-App/static/js/main.4057ef88.js.map",
+    "787.dfad1ebf.chunk.js.map": "/Portfolio-Development-Module-Blog-ReactJS-App/static/js/787.dfad1ebf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d481e26.css",
+    "static/js/main.4057ef88.js"
+  ]
+}
