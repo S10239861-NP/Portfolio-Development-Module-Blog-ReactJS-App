@@ -25,7 +25,6 @@
     "build-prod": "npx webpack --env mode=production",
     "start-dev": "npx webpack serve --env mode=development",
     "start-prod": "npx webpack serve --env mode=production",
-    "gh-deploy": "npm run build-prod && git push origin :gh-pages && git subtree push --prefix prod-build origin gh-pages",
-    "gh-deploy-init": "npm run build-prod && git push origin && git subtree push --prefix prod-build origin gh-pages"
+    "deploy": "npm run build-prod && git checkout gh-pages && git checkout main -- prod-build && git commit -m \"Deploy production build.\" && git push"
   }
 }
