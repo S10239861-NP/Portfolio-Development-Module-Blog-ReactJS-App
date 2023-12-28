@@ -25,6 +25,6 @@
     "build-prod": "npx webpack --env mode=production",
     "start-dev": "npx webpack serve --env mode=development",
     "start-prod": "npx webpack serve --env mode=production",
-    "deploy": "npm run build-prod"
+    "deploy": "npm run build-prod && gh-pages -d prod-build"
   }
 }

@@ -1,9 +1,9 @@
-import Week4TrelloBoardSnapshot from "C:\\Users\\navee\\Poly\\Portfolio-Development-PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-4-Trello-Board-Snapshot.png";
-import Week3TrelloBoardSnapshot from "C:\\Users\\navee\\Poly\\Portfolio-Development-PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-3-Trello-Board-Snapshot.png";
-import SystemDiagramsSS2 from "C:\\Users\\navee\\Poly\\Portfolio-Development-PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\System-Diagrams-SS-2.png";
-import SystemDiagramsSS1 from "C:\\Users\\navee\\Poly\\Portfolio-Development-PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\System-Diagrams-SS-1.png";
-import BlogPostTitleCard from "C:\\Users\\navee\\Poly\\Portfolio-Development-PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\components\\blog-post-title-card\\BlogPostTitleCard.js";
-import BlogPostView from "C:\\Users\\navee\\Poly\\Portfolio-Development-PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\components\\blog-post-view\\BlogPostView.js";
+import Week4TrelloBoardSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-4-Trello-Board-Snapshot.png";
+import Week3TrelloBoardSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-3-Trello-Board-Snapshot.png";
+import SystemDiagramsSS2 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\System-Diagrams-SS-2.png";
+import SystemDiagramsSS1 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\System-Diagrams-SS-1.png";
+import BlogPostTitleCard from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\components\\blog-post-title-card\\BlogPostTitleCard.js";
+import BlogPostView from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\components\\blog-post-view\\BlogPostView.js";
 export default new Map([
   [
     "Week 1",
