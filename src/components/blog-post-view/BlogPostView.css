@@ -1,7 +1,0 @@
-.blog-post-view {
-    display: flex;
-    flex-direction: column;
-    padding: 16px;
-    border-radius: 8px;
-    background-color: rgb(76, 76, 76);
-}
