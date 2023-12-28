@@ -2,6 +2,8 @@ import React from "react";
 
 import "./ContactView.css";
 
+import BlogPostCard from "../blog-post-card/BlogPostCard";
+
 class ContactView extends React.Component
 {
     constructor(props)
@@ -13,7 +15,11 @@ class ContactView extends React.Component
     {
         return (
             <div className="contact-view">
-                <p style={{marginLeft: "auto", marginRight: "auto"}}>Coming soon...</p>
+                <BlogPostCard header="Contact Details">
+                    <p>Email address: s10239861@connect.np.edu.sg</p>
+
+                    <p>GitHub username: <a href="https://github.com/S10239861-NP">S10239861-NP</a></p>
+                </BlogPostCard>
             </div>
         );
     }

@@ -12,14 +12,16 @@ import ContactView from "../contact-view/ContactView.js";
 
 class App extends React.Component
 {
+  #blogViewRef = React.createRef();
+
   views = {
-    HomeView: <HomeView/>,
-    BlogView: <BlogView/>,
-    ContactView: <ContactView/>
+    homeView: <HomeView/>,
+    blogView: <BlogView ref={this.#blogViewRef}/>,
+    contactView: <ContactView/>
   };
 
   state = {
-    currentView: this.views.HomeView
+    currentView: this.views.homeView
   };
 
   constructor(props)
@@ -47,6 +49,14 @@ class App extends React.Component
         </BlogShell>
       </div>
     );
+  }
+
+  componentDidUpdate()
+  {
+    if (this.state.currentView == this.views.blogView)
+    {
+      this.#blogViewRef.current.displayPostsSection();
+    }
   }
 }
 

@@ -6,11 +6,11 @@ import logo from "../../assets/logo.png";
 
 class BlogShell extends React.Component
 {
-    #navBarContainerRef = null;
+    #navBarContainerRef = React.createRef();
 
-    #footerNavContainerRef = null;
+    #footerNavContainerRef = React.createRef();
 
-    #childElementsContainerRef = null;
+    #childElementsContainerRef = React.createRef();
 
     #redirectNameToCallbackMap = {
         "Home": this.onHomeButtonMouseDown,
@@ -26,12 +26,6 @@ class BlogShell extends React.Component
         super(props);
 
         this.#app = this.props.getApp();
-
-        this.#navBarContainerRef = React.createRef();
-
-        this.#footerNavContainerRef = React.createRef();
-
-        this.#childElementsContainerRef = React.createRef();
     }
 
     initNavBarButtons()
@@ -101,7 +95,7 @@ class BlogShell extends React.Component
     {
         this.#app.setState(
             {
-                currentView: this.#app.views.HomeView
+                currentView: this.#app.views.homeView
             }
         );
     }
@@ -110,7 +104,7 @@ class BlogShell extends React.Component
     {
         this.#app.setState(
             {
-                currentView: this.#app.views.BlogView
+                currentView: this.#app.views.blogView
             }
         );
     }
@@ -119,7 +113,7 @@ class BlogShell extends React.Component
     {
         this.#app.setState(
             {
-                currentView: this.#app.views.ContactView
+                currentView: this.#app.views.contactView
             }
         );
     }

@@ -1,8 +1,4 @@
-.contact-view {
-    display: flex;
-    flex-direction: column;
-    row-gap: 20px;
-    padding: 0px 20px;
+.home-view {
     animation: entry-animation 0.9s ease-in-out;
 }
 

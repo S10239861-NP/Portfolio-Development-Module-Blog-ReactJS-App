@@ -2,6 +2,8 @@ import React from "react";
 
 import BlogPostCard from "../blog-post-card/BlogPostCard";
 
+import "./HomeView.css";
+
 class HomeView extends React.Component
 {
     constructor(props)
@@ -15,7 +17,7 @@ class HomeView extends React.Component
             <div className="home-view">
                 <BlogPostCard header="About Me" style={{margin: "0px 20px"}}>
                     <p>
-                        Hi there.<img style={{position: "relative", top: "5px"}} width="32px" height="32px" src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" alt="A GIF of a waving hand."/> I am Naveed, a Year 2 student currently taking on a full-time diploma in Information Technology at Ngee Ann Polytechnic. Some of my interests include reading, writing, cycling, playing badminton, reverse engineering, researching and understanding how various things around us work and why they work the way they do, working out, playing chess, mathematics, software development, game development and developing mods for games.
+                        Hello there.<img style={{position: "relative", top: "5px"}} width="32px" height="32px" src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" alt="A GIF of a waving hand."/> I am Naveed, a Year 2 student currently taking on a full-time diploma in Information Technology at Ngee Ann Polytechnic. Some of my interests include reading, writing, cycling, playing badminton, reverse engineering, researching and understanding how various things around us work and why they work the way they do, working out, playing chess, mathematics, software development, game development and developing mods for games.
                     </p>
 
                     <p>
