@@ -4,6 +4,7 @@ import SystemDiagramsSS2 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Dev
 import SystemDiagramsSS1 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\System-Diagrams-SS-1.png";
 import BlogPostTitleCard from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\components\\blog-post-title-card\\BlogPostTitleCard.js";
 import BlogPostView from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\components\\blog-post-view\\BlogPostView.js";
+import CaptionedImage from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\components\\captioned-image\\CaptionedImage.js";
 export default new Map([
   [
     "Week 1",
@@ -144,7 +145,8 @@ export default new Map([
             </li>
             <li className="li-1">
               Finished setting up a Github repository for the Kato Android
-              application, which can be viewed <a href="https://github.com/S10239861-NP/Kato">here</a>.
+              application, which can be viewed
+              <a href="https://github.com/S10239861-NP/Kato">here</a>.
             </li>
             <li className="li-1">Created and designed a login screen.</li>
             <li className="li-1">Implemented login functionality.</li>
@@ -183,16 +185,28 @@ export default new Map([
           <h3>System Diagrams</h3>
           <ul className="ul-1">
             <li className="li-1">
-              They show how computer systems connect together.
+              <p>They show how computer systems connect together.</p>
             </li>
             <li className="li-1">
-              Computer systems need components that do the following:
-              <img src={SystemDiagramsSS1} alt="image" />
+              <p>
+                Computer systems need components that do the following:
+                <CaptionedImage
+                  src={SystemDiagramsSS1}
+                  alt="image"
+                  caption="A sample diagram showing the various components of a system."
+                />
+              </p>
             </li>
             <li className="li-1">
-              Here is an example of a system diagram for the security system of
-              a data centre:
-              <img src={SystemDiagramsSS2} alt="image" />
+              <p>
+                Here is an example of a system diagram for the security system
+                of a data centre:
+                <CaptionedImage
+                  src={SystemDiagramsSS2}
+                  alt="image"
+                  caption="A system diagram for the security system of a data centre."
+                />
+              </p>
             </li>
           </ul>
           <h3>Free Architecture Diagram Software</h3>
@@ -967,7 +981,11 @@ export default new Map([
           </ul>
           <h3>Trello Board</h3>
           <p>
-            <img src={Week3TrelloBoardSnapshot} alt="image" />
+            <CaptionedImage
+              src={Week3TrelloBoardSnapshot}
+              alt="image"
+              caption="A snapshot of my team's Trello board for the PFD project, taken during Week 3."
+            />
           </p>
         </BlogPostView>
       ),
@@ -1246,7 +1264,11 @@ export default new Map([
           </ul>
           <h3>Trello Board</h3>
           <p>
-            <img src={Week4TrelloBoardSnapshot} alt="image" />
+            <CaptionedImage
+              src={Week4TrelloBoardSnapshot}
+              alt="image"
+              caption="A snapshot of my team's Trello board for the PFD project, taken during Week 4."
+            />
           </p>
         </BlogPostView>
       ),

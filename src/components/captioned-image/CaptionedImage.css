@@ -1,0 +1,10 @@
+.captioned-image {
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+}
+
+.captioned-image > em {
+    margin-left: auto;
+    margin-right: auto;
+}
