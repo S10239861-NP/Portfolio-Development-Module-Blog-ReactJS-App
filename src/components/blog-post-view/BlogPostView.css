@@ -6,12 +6,20 @@
     background-color: rgb(76, 76, 76);
 }
 
+.blog-post-view img {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
 .author-section {
     display: flex;
     flex-direction: row;
     column-gap: 8px;
     margin-top: 4px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .author-section > p {

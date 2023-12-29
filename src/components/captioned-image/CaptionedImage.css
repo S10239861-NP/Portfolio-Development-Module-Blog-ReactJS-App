@@ -2,9 +2,12 @@
     display: flex;
     flex-direction: column;
     row-gap: 8px;
+    align-items: center;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
-.captioned-image > em {
-    margin-left: auto;
-    margin-right: auto;
+.captioned-image img {
+    margin-top: 0px;
+    margin-bottom: 0px;
 }

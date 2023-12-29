@@ -26,6 +26,8 @@ class BlogPostTitleCard extends React.Component
     {
         return (
             <div className="blog-post-title-card" style={this.props.style}>
+                <img src={this.props.thumbnailSrc} alt=""/>
+
                 <h2 style={{marginLeft: "auto", marginRight: "auto"}}>{this.props.title}</h2>
 
                 <button ref={this.#readPostButtonRef} className="read-post-button">Read post</button>

@@ -1,7 +1,35 @@
+import KatoWebAppTrainingWebpageSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Kato-Web-App-Training-Webpage-Snapshot.png";
+import KatoWebAppInternalServerErrorWebpageSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Kato-Web-App-Internal-Server-Error-Webpage-Snapshot.png";
+import KatoWebApp404NotFoundWebpageSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Kato-Web-App-404-Not-Found-Webpage-Snapshot.png";
+import KatoWebAppAccessDeniedWebpageSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Kato-Web-App-Access-Denied-Webpage-Snapshot.png";
+import SQLiteLogo from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\SQLite-Logo.jpeg";
+import DatabasesIllustration from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Databases-Illustration.jpg";
+import SoftwareBugIllustration from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Software-Bug-Illustration.png";
+import PFDWeek5PresentationImage3 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Week-5-Presentation-Image-3.png";
+import PFDWeek5PresentationImage2 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Week-5-Presentation-Image-2.png";
+import PFDWeek5PresentationImage1 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Week-5-Presentation-Image-1.png";
 import Week4TrelloBoardSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-4-Trello-Board-Snapshot.png";
+import KatoWebAppGitHubRepoHomePageSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Kato-Web-App-GitHub-Repo-Home-Page-Snapshot.png";
+import KatoWebAppLoginPageSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Kato-Web-App-Login-Page-Snapshot.png";
+import ProductBacklogIllustration from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Product-Backlog-Illustration.webp";
+import PowerPointPresentationWithAudienceCartoonishImage from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PowerPoint-Presentation-With-Audience-Cartoonish-Image.jpg";
+import DemoDayPitchImage from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Demo-Day-Pitch-Image.jpg";
 import Week3TrelloBoardSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-3-Trello-Board-Snapshot.png";
+import PFDWeek4TeamMeetingWithWorkatoMentorsImage from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Week-4-Team-Meeting-With-Workato-Mentors-Image.png";
 import SystemDiagramsSS2 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\System-Diagrams-SS-2.png";
 import SystemDiagramsSS1 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\System-Diagrams-SS-1.png";
+import KatoAndroidAppMessagePopupSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Kato-Android-App-Message-Popup-Snapshot.png";
+import KatoAndroidAppWelcomeScreenSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Kato-Android-App-Welcome-Screen-Snapshot.png";
+import KatoAndroidAppLoginScreenSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Kato-Android-App-Login-Screen-Snapshot.png";
+import KatoAndroidAppGitHubRepoSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Kato-Android-App-GitHub-Repo-Snapshot.png";
+import AndroidDevelopment from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Android-Development.avif";
+import sometimeswethinkweallagree from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\sometimeswethinkweallagree.webp";
+import DesignThinkingIllustration2 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Design-Thinking-Illustration-2.jpg";
+import InceptionDeckIllustration from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Inception-Deck-Illustration.png";
+import GroupBrainstormingIllustration from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Group-Brainstorming-Illustration.jpeg";
+import SixBenefitsofDesignThinkinginProjectManagement from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\6-Benefits-of-Design-Thinking-in-Project-Management.jpg";
+import DesignThinkingStagesIllustration from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Design-Thinking-Stages-Illustration.jpg";
+import DesignThinkingIllustration from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Design-Thinking-Illustration.png";
 import BlogPostTitleCard from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\components\\blog-post-title-card\\BlogPostTitleCard.js";
 import BlogPostView from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\components\\blog-post-view\\BlogPostView.js";
 import CaptionedImage from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\components\\captioned-image\\CaptionedImage.js";
@@ -9,14 +37,149 @@ export default new Map([
   [
     "Week 1",
     {
-      blogPostTitleCard: <BlogPostTitleCard title="Week 1" />,
+      blogPostTitleCard: (
+        <BlogPostTitleCard
+          title="Week 1"
+          thumbnailSrc={DesignThinkingIllustration}
+        />
+      ),
       blogPostView: (
         <BlogPostView title="Week 1">
+          <h2>Introduction</h2>
           <p>
-            This week, I learnt about what design thinking is and how it can be
-            utilized to approach a problem in a user-oriented manner and design
-            solutions that are better catered for the needs and preferences of
-            the end user.
+            During this week's PFD lesson, I was briefed about the teaching plan
+            and overall schedule for this module and the lecturer made an
+            announcement regarding who the module representative for this module
+            would be.
+          </p>
+          <h2>OAL Reflection</h2>
+          <p>
+            <img src={DesignThinkingIllustration} alt="image" />
+          </p>
+          <p>
+            Additionally, during this week, I learnt about what design thinking
+            is and how it can be utilized to approach a problem in a
+            user-oriented manner and design solutions that are better catered
+            for the needs and preferences of the end user.
+          </p>
+          <p>
+            <CaptionedImage
+              src={DesignThinkingStagesIllustration}
+              alt="image"
+              caption="The stages of design thinking."
+            />
+          </p>
+          <p>
+            One of the concepts pertaining to design thinking that I learnt
+            about during this week's OAL was the 5 stages in the design thinking
+            process, which are:
+          </p>
+          <ul className="ul-1">
+            <li className="li-1">
+              Empathizing
+              <ul className="ul-1">
+                <li className="li-1">
+                  Empathizing refers to researching and understanding the needs
+                  of the end users. A problem cannot be solved until one is able
+                  to understand it first.
+                </li>
+              </ul>
+            </li>
+            <li className="li-1">
+              Defining
+              <ul className="ul-1">
+                <li className="li-1">
+                  Defining involves stating the the needs of the end users, as
+                  well as the problems at hand.
+                </li>
+              </ul>
+            </li>
+            <li className="li-1">
+              Ideating
+              <ul className="ul-1">
+                <li className="li-1">
+                  Ideating involves challenging one's assumptions and coming up
+                  with ideas.
+                </li>
+              </ul>
+            </li>
+            <li className="li-1">
+              Prototyping
+              <ul className="ul-1">
+                <li className="li-1">
+                  At the prototyping stage, one starts to create solutions to
+                  the aforementioned problems that address the identified needs
+                  of the end users.
+                </li>
+              </ul>
+            </li>
+            <li className="li-1">
+              Testing
+              <ul className="ul-1">
+                <li className="li-1">
+                  Testing involves trying out the solutions that were created
+                  during the prototyping stage. It is important for one to test
+                  their solutions so as to ensure that their solutions do not
+                  yield any incorrect or unintended outcomes.
+                </li>
+              </ul>
+            </li>
+          </ul>
+          <p>
+            <CaptionedImage
+              src={SixBenefitsofDesignThinkinginProjectManagement}
+              alt="image"
+              caption="The benefits of design thinking."
+            />
+          </p>
+          <p>
+            Another concept pertaining to design thinking that I learnt about
+            during this week's OAL was the benefits that design thinking offers
+            to businesses who use this problem-solving methodology, some of
+            these benefits include:
+          </p>
+          <ul className="ul-1">
+            <li className="li-1">
+              Allowing businesses to create solutions that more effectively
+              cater to the needs of their customers, thus resulting in increased
+              customer satisfaction and increased customer retention.
+            </li>
+            <li className="li-1">
+              Aiding businesses in creating and developing innovative solutions
+              that offer them a competitive advantage over other businesses.
+            </li>
+          </ul>
+          <h3>
+            How I can apply what I have learnt during this week's OAL to the PFD
+            project
+          </h3>
+          <p>
+            I can make use of the 5 stages of design thinking to formulate a
+            more structured and organized plan that our team can follow that
+            will enable them to come up with an effective solution to our
+            selected problem statement within a reasonably short period of time.
+          </p>
+          <h2>Project Development</h2>
+          <p>
+            <img src={GroupBrainstormingIllustration} alt="image" />
+          </p>
+          <p>
+            This week, my teammates and I were more focused on the empathizing,
+            defining and ideating stages of design thinking.
+          </p>
+          <p>
+            We agreed upon each taking some time to research and do whatever it
+            took to understand our selected problem statement and the needs of
+            the end users as much as possible, as well as to brainstorm possible
+            solutions to the problem statement based on the information that we
+            had obtained from our research and gradually nurtured understanding
+            of the problem statement.
+          </p>
+          <p>
+            Fortunately, I was able to increase my understanding of my team's
+            selected problem statement, however, I am still stuck on identifing
+            the needs of the end users, as well as possible solutions to the
+            aforementioned problem statement.
           </p>
         </BlogPostView>
       ),
@@ -25,13 +188,25 @@ export default new Map([
   [
     "Week 2",
     {
-      blogPostTitleCard: <BlogPostTitleCard title="Week 2" />,
+      blogPostTitleCard: (
+        <BlogPostTitleCard
+          title="Week 2"
+          thumbnailSrc={InceptionDeckIllustration}
+        />
+      ),
       blogPostView: (
         <BlogPostView title="Week 2">
-          <h3>Things that I learnt this week</h3>
+          <h2>OAL Reflection</h2>
+          <p>
+            During this week's OAL, I learnt about various concepts which
+            include:
+          </p>
+          <p>
+            <img src={InceptionDeckIllustration} alt="image" />
+          </p>
           <ul className="ul-1">
             <li className="li-1">
-              <p>What an inception deck is</p>
+              What an inception deck is
               <ul className="ul-1">
                 <li className="li-1">
                   An inception deck is a collection of visual representations
@@ -42,7 +217,7 @@ export default new Map([
               </ul>
             </li>
             <li className="li-1">
-              <p>The parts of an inception deck, which are:</p>
+              The parts of an inception deck, which are:
               <ul className="ul-1">
                 <li className="li-1">
                   The goal that the project seeks to achieve
@@ -81,8 +256,13 @@ export default new Map([
                 </li>
               </ul>
             </li>
+          </ul>
+          <p>
+            <img src={DesignThinkingIllustration2} alt="image" />
+          </p>
+          <ul className="ul-1">
             <li className="li-1">
-              <p>What design thinking is</p>
+              What design thinking is
               <ul className="ul-1">
                 <li className="li-1">
                   Design thinking is a design methodology that provides a more
@@ -91,7 +271,7 @@ export default new Map([
               </ul>
             </li>
             <li className="li-1">
-              <p>The reasons for why design thinking is needed</p>
+              The reasons for why design thinking is needed
               <ul className="ul-1">
                 <li className="li-1">
                   Design thinking is needed because it can help us to tackle
@@ -102,7 +282,7 @@ export default new Map([
               </ul>
             </li>
             <li className="li-1">
-              <p>The various phases of design thinking, which are:</p>
+              The various phases of design thinking, which are:
               <ul className="ul-1">
                 <li className="li-1">Empathizing</li>
                 <li className="li-1">Defining</li>
@@ -113,7 +293,7 @@ export default new Map([
             </li>
           </ul>
           <h3>
-            How can I apply what I have learnt this week to the PFD project
+            How I can apply what I have learnt this week to the PFD project
           </h3>
           <ul className="ul-1">
             <li className="li-1">
@@ -129,13 +309,41 @@ export default new Map([
               will truly be capable of benefitting our target end users.
             </li>
           </ul>
-          <h3>Finalized PFD project idea</h3>
+          <h2>Project Development</h2>
           <p>
-            As part of this PFD project, my teammates and I will be developing
-            an Android application called &quot;Kato&quot; to address our
-            selected problem statement which has to do with helping Workato
-            enhance their onboarding process for new hires and new employees.
+            <img src={sometimeswethinkweallagree} alt="image" />
           </p>
+          <p>
+            This week, my teammates and I finally managed to come to an
+            agreement regarding the solution that we would be developing as part
+            of our PFD project to address our selected problem statement.
+          </p>
+          <h3>The idea for our PFD project that my team settled on</h3>
+          <p>
+            <img src={AndroidDevelopment} alt="image" />
+          </p>
+          <p>
+            The idea that we agreed upon was that we would develop an Android
+            application called &quot;Kato&quot; to address our selected problem
+            statement which has to do with helping Workato enhance their
+            onboarding process for new hires and new employees.
+          </p>
+          <h3>Keynotes from my team's meeting with the mentors from Workato</h3>
+          <ul className="ul-1">
+            <li className="li-1">
+              As long as the solution addresses the problem statement, the
+              specific platform(s) that the solution would be available on
+              should not be too much of an issue.
+            </li>
+            <li className="li-1">
+              However, it would be preferable for the solution to be available
+              particularly on mobile platforms (i.e. Android, iOS) as it would
+              be a lot more convenient to use since mobile devices are typically
+              more portable compared to other devices such as computers,
+              additionally, many people tend to own at least 1 mobile device
+              nowadays.
+            </li>
+          </ul>
           <h3>My progress on the PFD project so far</h3>
           <ul className="ul-1">
             <li className="li-1">
@@ -148,14 +356,50 @@ export default new Map([
               application, which can be viewed
               <a href="https://github.com/S10239861-NP/Kato">here</a>.
             </li>
+          </ul>
+          <p>
+            <CaptionedImage
+              src={KatoAndroidAppGitHubRepoSnapshot}
+              alt="image"
+              caption="A snapshot of the webpage for the newly created GitHub repository for the Kato Android application."
+            />
+          </p>
+          <ul className="ul-1">
             <li className="li-1">Created and designed a login screen.</li>
+          </ul>
+          <p>
+            <CaptionedImage
+              src={KatoAndroidAppLoginScreenSnapshot}
+              alt="image"
+              caption="A snapshot of the login screen for the Kato Android application."
+            />
+          </p>
+          <ul className="ul-1">
             <li className="li-1">Implemented login functionality.</li>
+          </ul>
+          <p>
+            <CaptionedImage
+              src={KatoAndroidAppWelcomeScreenSnapshot}
+              alt="image"
+              caption="A snapshot of the welcome screen for the Kato Android application."
+            />
+          </p>
+          <ul className="ul-1">
             <li className="li-1">Created and designed a welcome screen.</li>
             <li className="li-1">
               Patched a few UI related bugs, as well as another bug that caused
               the application to crash on startup initially. Android layouts and
               UI components can be tricky to work with sometimes...
             </li>
+          </ul>
+          <p>
+            <CaptionedImage
+              src={KatoAndroidAppMessagePopupSnapshot}
+              alt="image"
+              caption="A snapshot of the message popup that the Kato Android application would display to the user in certain cases, such as if the end user entered incorrect or invalid credentials when attempting to log in."
+            />
+          </p>
+          <ul className="ul-1">
             <li className="li-1">
               Designed and implemented a message popup box that would appear at
               certain points during the application's runtime for various
@@ -171,44 +415,48 @@ export default new Map([
   [
     "Week 3",
     {
-      blogPostTitleCard: <BlogPostTitleCard title="Week 3" />,
+      blogPostTitleCard: (
+        <BlogPostTitleCard title="Week 3" thumbnailSrc={SystemDiagramsSS1} />
+      ),
       blogPostView: (
         <BlogPostView title="Week 3">
-          <h3>OAL Reflection</h3>
+          <h2>OAL Reflection</h2>
           <p>
             During this week's OAL, I had learnt about various concepts ranging
             from system diagrams and architecture diagram creation tools to
             design patterns and methods to design software architectures. Here
-            are the key takeaways and key concepts that I learnt about during
-            this week's OAL:
+            are some of the key takeaways and key concepts that I learnt about
+            during this week's OAL:
           </p>
           <h3>System Diagrams</h3>
           <ul className="ul-1">
             <li className="li-1">
-              <p>They show how computer systems connect together.</p>
+              They show how computer systems connect together.
             </li>
             <li className="li-1">
-              <p>
-                Computer systems need components that do the following:
-                <CaptionedImage
-                  src={SystemDiagramsSS1}
-                  alt="image"
-                  caption="A sample diagram showing the various components of a system."
-                />
-              </p>
-            </li>
-            <li className="li-1">
-              <p>
-                Here is an example of a system diagram for the security system
-                of a data centre:
-                <CaptionedImage
-                  src={SystemDiagramsSS2}
-                  alt="image"
-                  caption="A system diagram for the security system of a data centre."
-                />
-              </p>
+              Computer systems need components that do the following:
             </li>
           </ul>
+          <p>
+            <CaptionedImage
+              src={SystemDiagramsSS1}
+              alt="image"
+              caption="A sample diagram showing the various components of a system."
+            />
+          </p>
+          <ul className="ul-1">
+            <li className="li-1">
+              Here is an example of a system diagram for the security system of
+              a data centre:
+            </li>
+          </ul>
+          <p>
+            <CaptionedImage
+              src={SystemDiagramsSS2}
+              alt="image"
+              caption="A system diagram for the security system of a data centre."
+            />
+          </p>
           <h3>Free Architecture Diagram Software</h3>
           <ul className="ul-1">
             <li className="li-1">Draw.io</li>
@@ -873,7 +1121,8 @@ export default new Map([
             </li>
           </ul>
           <h3>
-            How can I apply what I have learnt this week to the PFD project
+            How I can apply what I have learnt during this week's OAL to the PFD
+            project
           </h3>
           <ul className="ul-1">
             <li className="li-1">
@@ -888,8 +1137,17 @@ export default new Map([
               implementing various features for the Kato application.
             </li>
           </ul>
+          <h2>Project Development</h2>
+          <p>
+            <CaptionedImage
+              src={PFDWeek4TeamMeetingWithWorkatoMentorsImage}
+              alt="image"
+              caption="Hybrid team meeting with mentors from Workato."
+            />
+          </p>
           <h3>
-            Key takeaways from the meeting with the Workato mentors this week
+            Keynotes from my team's meeting with the mentors from Workato this
+            week
           </h3>
           <ul className="ul-1">
             <li className="li-1">
@@ -979,7 +1237,7 @@ export default new Map([
               </ol>
             </li>
           </ul>
-          <h3>Trello Board</h3>
+          <h2>Trello Board</h2>
           <p>
             <CaptionedImage
               src={Week3TrelloBoardSnapshot}
@@ -994,16 +1252,21 @@ export default new Map([
   [
     "Week 4",
     {
-      blogPostTitleCard: <BlogPostTitleCard title="Week 4" />,
+      blogPostTitleCard: (
+        <BlogPostTitleCard title="Week 4" thumbnailSrc={DemoDayPitchImage} />
+      ),
       blogPostView: (
         <BlogPostView title="Week 4">
-          <h3>OAL Reflection</h3>
+          <h2>OAL Reflection</h2>
           <p>
             During this week's OAL, I learnt about multiple new concepts ranging
             from delivering interesting and memorable speeches to creating
             effective and intriguing presentations. Here are some of the key
             takeaways and key concepts that I learnt about during this week's
             OAL:
+          </p>
+          <p>
+            <img src={DemoDayPitchImage} alt="image" />
           </p>
           <h3>Things to talk about during a demo day pitch:</h3>
           <ul className="ul-1">
@@ -1088,6 +1351,12 @@ export default new Map([
               pitch.
             </li>
           </ul>
+          <p>
+            <img
+              src={PowerPointPresentationWithAudienceCartoonishImage}
+              alt="image"
+            />
+          </p>
           <h3>Approaches to creating and designing effective presentations</h3>
           <ul className="ul-1">
             <li className="li-1">
@@ -1169,7 +1438,7 @@ export default new Map([
             </li>
           </ul>
           <h3>
-            How can I apply what I have learnt this week to the PFD project
+            How I can apply what I have learnt this week to the PFD project
           </h3>
           <ul className="ul-1">
             <li className="li-1">
@@ -1186,10 +1455,18 @@ export default new Map([
               does, what makes it unique, what makes it better etc).
             </li>
           </ul>
-          <h3>
-            Updated list of planned features for the PFD project (based on
-            meetings with Workato mentors)
-          </h3>
+          <h2>Project Development</h2>
+          <p>
+            During this week, my teammates and I made revisions to the backlog
+            of features that we were planning on including to our solution for
+            the PFD project, with one of the main reasons for the changes being
+            due to certain suggestions and recommendations we had received from
+            the mentors from Workato during our meeting with them this week.
+          </p>
+          <p>
+            <img src={ProductBacklogIllustration} alt="image" />
+          </p>
+          <h3>Updated list of planned features for the PFD project</h3>
           <ul className="ul-1">
             <li className="li-1">
               Discord chatbot.
@@ -1242,6 +1519,15 @@ export default new Map([
               Login page for the Kato web application has been created and
               designed.
             </li>
+          </ul>
+          <p>
+            <CaptionedImage
+              src={KatoWebAppLoginPageSnapshot}
+              alt="image"
+              caption="A snapshot of the login page of the Kato web application."
+            />
+          </p>
+          <ul className="ul-1">
             <li className="li-1">
               Backend server can now handle requests made by the client for
               resources (e.g. HTML, CSS, JS and image files etc).
@@ -1250,6 +1536,15 @@ export default new Map([
               GitHub repository for the Kato web application has been set up
               successfully.
             </li>
+          </ul>
+          <p>
+            <CaptionedImage
+              src={KatoWebAppGitHubRepoHomePageSnapshot}
+              alt="image"
+              caption="A snapshot of the webpage for the newly created GitHub repository for the Kato web application."
+            />
+          </p>
+          <ul className="ul-1">
             <li className="li-1">
               Version control system (VCS) for the Kato web application has been
               set up successfully.
@@ -1262,7 +1557,7 @@ export default new Map([
               </ul>
             </li>
           </ul>
-          <h3>Trello Board</h3>
+          <h2>Trello Board</h2>
           <p>
             <CaptionedImage
               src={Week4TrelloBoardSnapshot}
@@ -1277,12 +1572,219 @@ export default new Map([
   [
     "Week 5",
     {
-      blogPostTitleCard: <BlogPostTitleCard title="Week 5" />,
+      blogPostTitleCard: (
+        <BlogPostTitleCard
+          title="Week 5"
+          thumbnailSrc={PFDWeek5PresentationImage1}
+        />
+      ),
       blogPostView: (
         <BlogPostView title="Week 5">
+          <h2>Introduction</h2>
           <p>
-            This week, my teammates and I pitched our newly developed website to
-            the stakeholders at Workato.
+            This week, my teammates and I pitched our newly developed solution,
+            which came in the form of a web application, to the stakeholders at
+            Workato.
+          </p>
+          <h3>Presentation of our solution at the Workato headquarters</h3>
+          <p>
+            As part of the schedule for the third day of the Workato hackathon,
+            my teammates and I had to present the first prototype for our
+            solution to the stakeholders at the Workato headquarters in
+            Singapore, with one of the stakeholders being one of our team's
+            mentors.
+          </p>
+          <p>
+            Prior to our scheduled presentation, I was quite nervous as I was
+            not sure as to how the stakeholders would react or respond to the
+            solution we would be presenting to them on that day.
+          </p>
+          <p>
+            To make things worse, there were a few small features and parts of
+            the implementation with regards to our solution which had not been
+            fully completed yet, one of them included the embedded Discord
+            chatbot feature.
+          </p>
+          <p>
+            As a result, the next couple of minutes or so prior to the
+            presentation was pretty much a race against time as I hurriedly
+            attempted to complete the implementation of the incomplete features
+            of our web application. I also had to patch a few bugs that popped
+            up during the development phase which had unfortunately not been
+            patched before the day of our presentation.
+          </p>
+          <p>
+            Fortunately, I was able to patch the remaining bugs and partially
+            implement the Discord chatbot feature just before the presentation,
+            though unfortunately for the team, the embedded Discord chatbot
+            feature was not exactly ready to be presented yet and so as a
+            result, we decided to briefly cover that feature of the website
+            during our presentation instead of going into more detail about it
+            and demonstrating it to the stakeholders.
+          </p>
+          <p>
+            With that being said, here are some pictures taken during our team's
+            presentation. Although there were certain flaws in our presentation,
+            I am still glad that it went smoothly and well.
+          </p>
+          <p>
+            <CaptionedImage
+              src={PFDWeek5PresentationImage1}
+              alt="image"
+              caption="One of my teammates, Yourong, talks about our team's problem statement during the presentation."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={PFDWeek5PresentationImage2}
+              alt="image"
+              caption="Another one of my teammates, Vin, gives a brief overview of our solution, as well as its key features to the audience during the presentation."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={PFDWeek5PresentationImage3}
+              alt="image"
+              caption="Another picture taken during our presentation of Vin presenting our team's developed solution to the audience during the presentation."
+            />
+          </p>
+          <h2>OAL Reflection</h2>
+          <p>
+            There was no OAL for this week due to the fact that during this
+            week, each of the teams for the PFD project would be presenting
+            their solutions to the stakeholders. The three-day long Hackathon
+            was also held during this week, which took up a sizeable chunk of
+            the week.
+          </p>
+          <h2>Project Development</h2>
+          <p>
+            <img src={SoftwareBugIllustration} alt="image" />
+          </p>
+          <p>
+            During this week, my teammates and I worked around the clock to
+            complete the implementation of our selected features for the Kato
+            web application. We ended up running into several frustrating
+            front-end related bugs during the process of creating the website
+            and designing it.
+          </p>
+          <p>
+            I was initially expecting the back-end portion of the website to
+            take longer to implement than the front-end portion of the website,
+            however, to my surprise, the opposite happened instead and one of my
+            teammates and I, who were responsible for implementing and handling
+            the front-end portion on the website, ended up spending a lot more
+            time on the front-end portion than expected. If my memory serves me
+            correctly, I believe that we spent more than 3 or 4 days working on
+            the front-end part of the website while I had only needed slightly
+            less than a weekend to implement the back-end portion of the
+            website, though to be fair, it was not extremely complicated to do
+            so.
+          </p>
+          <h3>Progress made for the PFD project</h3>
+          <p>
+            <img src={DatabasesIllustration} alt="image" />
+          </p>
+          <ul className="ul-1">
+            <li className="li-1">
+              <p>
+                My teammates and I came to an agreement on the type of database
+                that we would be using for the solution that we were developing,
+                we agreed to use an SQLite database which the web application
+                could store information in and retrieve information from by
+                sending requests to the backend server.
+              </p>
+              <p>
+                <img src={SQLiteLogo} alt="image" />
+              </p>
+            </li>
+            <li className="li-1">
+              <p>
+                I finished setting up the SQLite database which the web
+                application would be storing and fetching data from.
+              </p>
+            </li>
+            <li className="li-1">
+              <p>
+                I finished creating and inserting testing data into the SQLite
+                database, this data would be used during the process of testing
+                the web application, as we did not have access to enough
+                real-world data to use for testing at the time.
+              </p>
+            </li>
+            <li className="li-1">
+              <p>
+                I finished implementing the login feature, which as the name
+                implies, would enable new employees at Workato to log into the
+                Kato web application using their own credentials.
+              </p>
+            </li>
+            <li className="li-1">
+              <p>
+                I finished implementing the authentication mechanism for the web
+                application, which primarily relies on JSON Web Tokens (JWTs)
+                for authentication.
+              </p>
+            </li>
+            <li className="li-1">
+              <p>
+                I finished creating an &quot;Access Denied&quot; webpage, this
+                webpage would be displayed to users who attempted to access a
+                forbidden resource (e.g. a webpage or a file) or a resource that
+                they were not authorized to access.
+              </p>
+            </li>
+          </ul>
+          <p>
+            <CaptionedImage
+              src={KatoWebAppAccessDeniedWebpageSnapshot}
+              alt="image"
+              caption="A snapshot of the 'Access Denied' webpage created for the Kato web application."
+            />
+          </p>
+          <ul className="ul-1">
+            <li className="li-1">
+              I finished creating a &quot;404 Not Found&quot; webpage, this
+              webpage would be displayed to users who attempted to access a
+              resource, such as a webpage or a file, that did not exist.
+            </li>
+          </ul>
+          <p>
+            <CaptionedImage
+              src={KatoWebApp404NotFoundWebpageSnapshot}
+              alt="image"
+              caption="A snapshot of the '404 Not Found' webpage created for the Kato web application."
+            />
+          </p>
+          <ul className="ul-1">
+            <li className="li-1">
+              I finished creating an &quot;Internal Server Error&quot; webpage,
+              this webpage would only be displayed to users if the backend
+              server ran into an unexpected error.
+            </li>
+          </ul>
+          <p>
+            <CaptionedImage
+              src={KatoWebAppInternalServerErrorWebpageSnapshot}
+              alt="image"
+              caption="A snapshot of the 'Internal Server Error' webpage created for the Kato web application."
+            />
+          </p>
+          <ul className="ul-1">
+            <li className="li-1">
+              I finished implementing error handling procedures for the back-end
+              server.
+            </li>
+            <li className="li-1">
+              I patched a few bugs that were occuring on the training webpage of
+              the Kato web application.
+            </li>
+          </ul>
+          <p>
+            <CaptionedImage
+              src={KatoWebAppTrainingWebpageSnapshot}
+              alt="image"
+              caption="A snapshot of the training webpage created and designed for the Kato web application."
+            />
           </p>
         </BlogPostView>
       ),

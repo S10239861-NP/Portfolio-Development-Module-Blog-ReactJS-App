@@ -37,6 +37,14 @@ class BlogView extends React.Component
                 this.#blogViewPostsSectionRef.current.style.display = "none";
 
                 this.#blogPostViewContainerRef.current.style.display = "";
+
+                window.scrollTo(
+                    {
+                        left: 0,
+                        top: 0,
+                        behavior: "instant"
+                    }
+                );
             }
         );
     }
@@ -44,6 +52,14 @@ class BlogView extends React.Component
     #onReturnToBlogPostsSectionButtonMouseDown()
     {
         this.displayPostsSection();
+        
+        window.scrollTo(
+            {
+                left: 0,
+                top: 0,
+                behavior: "instant"
+            }
+        );
     }
 
     constructor(props)

@@ -46,7 +46,7 @@ function getWebpackConfig(env)
                     exclude: /node_modules/
                 },
                 {
-                    test: /\.(jpg|png|jpeg)$/,
+                    test: /\.(jpg|png|jpeg|webp|avif)$/,
                     type: "asset/resource"
                 },
                 {
