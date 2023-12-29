@@ -1,3 +1,5 @@
+import PFDProjectWeek5TrelloBoardSnapshot2 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Project-Week-5-Trello-Board-Snapshot-2.png";
+import PFDProjectWeek5TrelloBoardSnapshot1 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Project-Week-5-Trello-Board-Snapshot-1.png";
 import KatoWebAppTrainingWebpageSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Kato-Web-App-Training-Webpage-Snapshot.png";
 import KatoWebAppInternalServerErrorWebpageSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Kato-Web-App-Internal-Server-Error-Webpage-Snapshot.png";
 import KatoWebApp404NotFoundWebpageSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Kato-Web-App-404-Not-Found-Webpage-Snapshot.png";
@@ -1784,6 +1786,21 @@ export default new Map([
               src={KatoWebAppTrainingWebpageSnapshot}
               alt="image"
               caption="A snapshot of the training webpage created and designed for the Kato web application."
+            />
+          </p>
+          <h2>Trello Board</h2>
+          <p>
+            <CaptionedImage
+              src={PFDProjectWeek5TrelloBoardSnapshot1}
+              alt="image"
+              caption="A snapshot of the first part of my team's Trello board for the PFD project, taken during Week 5."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={PFDProjectWeek5TrelloBoardSnapshot2}
+              alt="image"
+              caption="A snapshot of the second part of my team's Trello board for the PFD project, taken during Week 5."
             />
           </p>
         </BlogPostView>
