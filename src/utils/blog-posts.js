@@ -1,3 +1,17 @@
+import PFDWeek13TrelloBoardSnapshot4 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Week-13-Trello-Board-Snapshot-4.jpeg";
+import PFDWeek13TrelloBoardSnapshot3 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Week-13-Trello-Board-Snapshot-3.jpeg";
+import PFDWeek13TrelloBoardSnapshot2 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Week-13-Trello-Board-Snapshot-2.jpeg";
+import PFDWeek13TrelloBoardSnapshot1 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Week-13-Trello-Board-Snapshot-1.jpeg";
+import TeamReviewingProjectProgressImage from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Team-Reviewing-Project-Progress-Image.jpg";
+import OnlineLearningImage from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Online-Learning-Image.webp";
+import Classroom3DModelSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Classroom-3D-Model-Snapshot.jpeg";
+import PFDWeek12TrelloBoardSnapshot4 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Week-12-Trello-Board-Snapshot-4.jpeg";
+import PFDWeek12TrelloBoardSnapshot3 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Week-12-Trello-Board-Snapshot-3.jpeg";
+import PFDWeek12TrelloBoardSnapshot2 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Week-12-Trello-Board-Snapshot-2.jpeg";
+import PFDWeek12TrelloBoardSnapshot1 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Week-12-Trello-Board-Snapshot-1.jpeg";
+import TeamWorkingTogetherImage from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Team-Working-Together-Image.jpg";
+import OnlineLearningVectorImage from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Online-Learning-Vector-Image.jpg";
+import Two024GoalBlocksImage from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\2024-Goal-Blocks-Image.jpeg";
 import PFDProjectWeek5TrelloBoardSnapshot2 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Project-Week-5-Trello-Board-Snapshot-2.png";
 import PFDProjectWeek5TrelloBoardSnapshot1 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Project-Week-5-Trello-Board-Snapshot-1.png";
 import KatoWebAppTrainingWebpageSnapshot from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Kato-Web-App-Training-Webpage-Snapshot.png";
@@ -1801,6 +1815,247 @@ export default new Map([
               src={PFDProjectWeek5TrelloBoardSnapshot2}
               alt="image"
               caption="A snapshot of the second part of my team's Trello board for the PFD project, taken during Week 5."
+            />
+          </p>
+        </BlogPostView>
+      ),
+    },
+  ],
+  [
+    "Week 12",
+    {
+      blogPostTitleCard: (
+        <BlogPostTitleCard
+          title="Week 12"
+          thumbnailSrc={Two024GoalBlocksImage}
+        />
+      ),
+      blogPostView: (
+        <BlogPostView title="Week 12">
+          <h2>Introduction</h2>
+          <p>
+            <img src={Two024GoalBlocksImage} alt="image" />
+          </p>
+          <p>
+            Due to the New Year holiday just happening to fall on the Monday of
+            this week, which also happened to be the first day of the year 2024,
+            there was no PFD lesson held on Monday itself, however, there was a
+            lesson conducted on the Friday of the same week around noon. The
+            lesson essentially served as a consultation session for each of the
+            PFD teams, including my team.
+          </p>
+          <p>
+            Unfortunately, due to certain unforeseen circumstances, some of my
+            teammates and I were unable to make it in time for the consultation
+            session, instead, we all only managed to arrive at the venue when
+            the consultation session had basically ended.
+          </p>
+          <p>
+            As a result, we decided to go to a different classroom and discuss
+            about the PFD project, some of the matters that were discussed
+            during this brief meeting included the plan for delivering the
+            remaining features that we had agreed to include as part of our
+            solution as well as how to evenly and efficiently split the workload
+            between each of the members in our team.
+          </p>
+          <h2>OAL Reflection</h2>
+          <p>
+            <img src={OnlineLearningVectorImage} alt="image" />
+          </p>
+          <p>
+            During this week, there was no OAL, however, my teammates and I
+            utilized the additional time to continue working on our PFD project
+            in preparation for the upcoming Project Showcase event.
+          </p>
+          <h2>Project Development</h2>
+          <p>
+            <img src={TeamWorkingTogetherImage} alt="image" />
+          </p>
+          <p>
+            During this week, my teammates and I mainly focused on brainstorming
+            and coming up with ideas pertaining to the new features that we
+            could add to the solution to allow it to more effectively address
+            our selected problem statement.
+          </p>
+          <p>
+            I also conducted some more research regarding the problem statement
+            as I believed that having a deeper understanding of the problem that
+            we were trying to solve might also help me come up with more ideas
+            regarding new features that could be added to the solution to
+            increase its effectiveness in addressing our selected problem
+            statement.
+          </p>
+          <p>
+            Additionally, I looked around the Internet for appealing visual
+            elements and UI designs that we could incorporate into our solution
+            to enhance its visual appeal to the end users.
+          </p>
+          <h2>Trello Board</h2>
+          <p>
+            <CaptionedImage
+              src={PFDWeek12TrelloBoardSnapshot1}
+              alt="image"
+              caption="A snapshot of the first part of my team's Trello board for the PFD project, taken during Week 12."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={PFDWeek12TrelloBoardSnapshot2}
+              alt="image"
+              caption="A snapshot of the second part of my team's Trello board for the PFD project, taken during Week 12."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={PFDWeek12TrelloBoardSnapshot3}
+              alt="image"
+              caption="A snapshot of the third part of my team's Trello board for the PFD project, taken during Week 12."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={PFDWeek12TrelloBoardSnapshot4}
+              alt="image"
+              caption="A snapshot of the fourth part of my team's Trello board for the PFD project, taken during Week 12."
+            />
+          </p>
+        </BlogPostView>
+      ),
+    },
+  ],
+  [
+    "Week 13",
+    {
+      blogPostTitleCard: (
+        <BlogPostTitleCard
+          title="Week 13"
+          thumbnailSrc={Classroom3DModelSnapshot}
+        />
+      ),
+      blogPostView: (
+        <BlogPostView title="Week 13">
+          <h2>Introduction</h2>
+          <p>
+            <img src={Classroom3DModelSnapshot} alt="image" />
+          </p>
+          <p>
+            This week, we had a PFD lesson on Monday in the afternoon, this
+            lesson served as another consultation session that my team could
+            make use of, as well as an opportunity for the lecturer to inspect
+            our progress on the development of our solution for the PFD project.
+          </p>
+          <p>
+            When the lecturer came over to my team to check up on our progress
+            on the PFD project, he brought up certain points which I feel can be
+            of use to us in terms of helping us to better understand the steps
+            we need to take to further enhance and improve our solution. Several
+            of these points were mainly directed towards the design of the Kato
+            web application and include:
+          </p>
+          <ul className="ul-1">
+            <li className="li-1">
+              Diversifying the colors used for the container elements on each of
+              the webpages of the Kato web application.
+            </li>
+            <li className="li-1">
+              Conducting research into possible UI design enhancements and more
+              visually appealing UI components.
+            </li>
+          </ul>
+          <h2>OAL Reflection</h2>
+          <p>
+            <img src={OnlineLearningImage} alt="image" />
+          </p>
+          <p>
+            There was no OAL for this week, however, my teammates and I made use
+            of this week to work on our PFD project so as to prepare for the
+            upcoming Project Showcase event.
+          </p>
+          <h2>Project Development</h2>
+          <p>
+            <img src={TeamReviewingProjectProgressImage} alt="image" />
+          </p>
+          <p>
+            During this week, my teammates and I reviewed our progress on the
+            Kato web application, we discussed about possible areas of
+            improvement, as well as the measures we could take to improve our
+            development workflows.
+          </p>
+          <p>
+            Based on the discussions that our team had throughout the course of
+            this week, I then compiled a list of tasks that we could add to the
+            backlog to increase transparency regarding the work that our team
+            had yet to complete before the Product Showcase event:
+          </p>
+          <ul className="ul-1">
+            <li className="li-1">
+              Patch certain visual bugs in the Kato web application.
+            </li>
+            <li className="li-1">
+              Implement the embedded Discord chatbot for the Kato web
+              application.
+            </li>
+            <li className="li-1">
+              Add a few CSS animations to certain UI elements in the Kato web
+              application.
+            </li>
+            <li className="li-1">
+              Implement functionality for certain buttons that were displayed on
+              the dashboard page (i.e. the filter button).
+            </li>
+            <li className="li-1">
+              Fix issue with search bar on training page showing black border
+              when focused.
+            </li>
+            <li className="li-1">
+              Implement the search bar for the training page.
+            </li>
+            <li className="li-1">
+              Implement automatic centering of the &quot;Know your team&quot;
+              webpage's card elements.
+            </li>
+            <li className="li-1">
+              Implement the functionality for the arrow button on the &quot;Know
+              your team&quot; webpage.
+            </li>
+            <li className="li-1">Revamp the design of the login page.</li>
+            <li className="li-1">Revamp the design of the dashboard page.</li>
+            <li className="li-1">
+              Perform testing and make the necessary changes to ensure that the
+              Kato web application's pages are all viewable on mobile and are
+              sufficiently responsive.
+            </li>
+            <li className="li-1">
+              Create the logout button and implement its functionality.
+            </li>
+          </ul>
+          <h2>Trello Board</h2>
+          <p>
+            <CaptionedImage
+              src={PFDWeek13TrelloBoardSnapshot1}
+              alt="image"
+              caption="A snapshot of the first part of my team's Trello board for the PFD project, taken during Week 13."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={PFDWeek13TrelloBoardSnapshot2}
+              alt="image"
+              caption="A snapshot of the second part of my team's Trello board for the PFD project, taken during Week 13."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={PFDWeek13TrelloBoardSnapshot3}
+              alt="image"
+              caption="A snapshot of the third part of my team's Trello board for the PFD project, taken during Week 13."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={PFDWeek13TrelloBoardSnapshot4}
+              alt="image"
+              caption="A snapshot of the fourth part of my team's Trello board for the PFD project, taken during Week 13."
             />
           </p>
         </BlogPostView>
