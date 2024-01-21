@@ -12,6 +12,8 @@ import ContactView from "../contact-view/ContactView.js";
 
 class App extends React.Component
 {
+  #rootRef = React.createRef();
+
   #blogViewRef = React.createRef();
 
   views = {
@@ -41,7 +43,7 @@ class App extends React.Component
   render()
   {
     return (
-      <div className="App">
+      <div ref={this.#rootRef} className="app">
         <BlogShell getApp={this.getApp.bind(this)}>
           {
             this.state.currentView

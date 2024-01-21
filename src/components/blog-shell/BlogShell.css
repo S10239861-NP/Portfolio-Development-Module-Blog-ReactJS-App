@@ -86,3 +86,9 @@
 .footer-nav-container > a:hover {
     font-size: 18px;
 }
+
+.shell-body-container {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}

@@ -68,7 +68,7 @@ class BlogShell extends React.Component
                     }
                 </div>
 
-                <div ref={this.#childElementsContainerRef}>
+                <div ref={this.#childElementsContainerRef} className="shell-body-container">
                     {
                         this.props.children
                     }

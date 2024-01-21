@@ -54,8 +54,6 @@
 .blog-post-title-card > img {
     max-width: 30vw;
     max-height: 30vh;
-    width: fit-content;
-    height: fit-content;
     margin-left: auto;
     margin-right: auto;
 }
