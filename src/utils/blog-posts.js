@@ -1,3 +1,5 @@
+import Week14PFDProjectTrelloBoardSnapshot2 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-14-PFD-Project-Trello-Board-Snapshot-2.jpeg";
+import Week14PFDProjectTrelloBoardSnapshot1 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-14-PFD-Project-Trello-Board-Snapshot-1.jpeg";
 import PFDWeek13TrelloBoardSnapshot4 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Week-13-Trello-Board-Snapshot-4.jpeg";
 import PFDWeek13TrelloBoardSnapshot3 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Week-13-Trello-Board-Snapshot-3.jpeg";
 import PFDWeek13TrelloBoardSnapshot2 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Week-13-Trello-Board-Snapshot-2.jpeg";
@@ -2056,6 +2058,53 @@ export default new Map([
               src={PFDWeek13TrelloBoardSnapshot4}
               alt="image"
               caption="A snapshot of the fourth part of my team's Trello board for the PFD project, taken during Week 13."
+            />
+          </p>
+        </BlogPostView>
+      ),
+    },
+  ],
+  [
+    "Week 14",
+    {
+      blogPostTitleCard: (
+        <BlogPostTitleCard
+          title="Week 14"
+          thumbnailSrc={Week14PFDProjectTrelloBoardSnapshot1}
+        />
+      ),
+      blogPostView: (
+        <BlogPostView title="Week 14">
+          <h2>Introduction</h2>
+          <p>
+            This week, due to various clashes in schedules, my teammates and I
+            were not able to make as much progress on the PFD project as
+            initially forecasted.
+          </p>
+          <h2>OAL Reflection</h2>
+          <p>
+            There was no OAL for this week, however, my teammates and I made use
+            of this week to work on our PFD project so as to prepare for the
+            upcoming Project Showcase event.
+          </p>
+          <h2>Project Development</h2>
+          <p>
+            There was unfortunately not much progress made on the PFD project
+            for this week.
+          </p>
+          <h2>Trello Board</h2>
+          <p>
+            <CaptionedImage
+              src={Week14PFDProjectTrelloBoardSnapshot1}
+              alt="image"
+              caption="A snapshot of the first part of my team's Trello board for the PFD project, taken during Week 14."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={Week14PFDProjectTrelloBoardSnapshot2}
+              alt="image"
+              caption="A snapshot of the second part of my team's Trello board for the PFD project, taken during Week 14."
             />
           </p>
         </BlogPostView>

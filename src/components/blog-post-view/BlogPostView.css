@@ -19,10 +19,14 @@
     flex-direction: row;
     column-gap: 8px;
     margin-top: 4px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .author-section > p {
     display: flex;
     align-items: center;
+}
+
+.blog-post-view > p {
+    margin-bottom: 12px;
 }
