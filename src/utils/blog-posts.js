@@ -1,3 +1,15 @@
+import Week15TrelloBoardSnapshot10 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-15-Trello-Board-Snapshot-10.png";
+import Week15TrelloBoardSnapshot9 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-15-Trello-Board-Snapshot-9.png";
+import Week15TrelloBoardSnapshot8 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-15-Trello-Board-Snapshot-8.png";
+import Week15TrelloBoardSnapshot7 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-15-Trello-Board-Snapshot-7.png";
+import Week15TrelloBoardSnapshot6 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-15-Trello-Board-Snapshot-6.png";
+import Week15TrelloBoardSnapshot5 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-15-Trello-Board-Snapshot-5.png";
+import Week15TrelloBoardSnapshot4 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-15-Trello-Board-Snapshot-4.png";
+import Week15TrelloBoardSnapshot3 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-15-Trello-Board-Snapshot-3.png";
+import Week15TrelloBoardSnapshot2 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-15-Trello-Board-Snapshot-2.png";
+import Week15TrelloBoardSnapshot1 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-15-Trello-Board-Snapshot-1.png";
+import ProjectDevelopmentImage from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Project-Development-Image.png";
+import WebAppImage from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Web-App-Image.png";
 import Week14PFDProjectTrelloBoardSnapshot2 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-14-PFD-Project-Trello-Board-Snapshot-2.jpeg";
 import Week14PFDProjectTrelloBoardSnapshot1 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\Week-14-PFD-Project-Trello-Board-Snapshot-1.jpeg";
 import PFDWeek13TrelloBoardSnapshot4 from "C:\\Users\\navee\\Poly\\PFD-Module\\Portfolio-Development-Module-Blog-ReactJS-App\\src\\assets\\PFD-Week-13-Trello-Board-Snapshot-4.jpeg";
@@ -2105,6 +2117,212 @@ export default new Map([
               src={Week14PFDProjectTrelloBoardSnapshot2}
               alt="image"
               caption="A snapshot of the second part of my team's Trello board for the PFD project, taken during Week 14."
+            />
+          </p>
+        </BlogPostView>
+      ),
+    },
+  ],
+  [
+    "Week 15",
+    {
+      blogPostTitleCard: (
+        <BlogPostTitleCard title="Week 15" thumbnailSrc={WebAppImage} />
+      ),
+      blogPostView: (
+        <BlogPostView title="Week 15">
+          <h2>Introduction</h2>
+          <p>
+            <img src={WebAppImage} alt="img" />
+          </p>
+          <p>
+            This week, one of my teammates and I focused on adding new features
+            and improving the user interface design and responsiveness of our
+            web application while another teammate focused on fully implementing
+            their Discord bot, both of which were part of our solution for our
+            selected problem statement.
+          </p>
+          <h2>OAL Reflection</h2>
+          <p>
+            There was no OAL for this week, however, my teammates and I made use
+            of this week to work on our PFD project so as to prepare to showcase
+            it to our lecturer.
+          </p>
+          <h2>Project Development</h2>
+          <p>
+            <img src={ProjectDevelopmentImage} alt="img" />
+          </p>
+          <p>
+            During the course of this week, I mainly focused on the frontend of
+            the web application, mainly working towards implementing new
+            features, patching existing or newly discovered bugs, and attempting
+            to improve the responsiveness of the web application so that it
+            would be both viewable and usable on devices with smaller screens
+            (i.e. mobile phones and tablets).
+          </p>
+          <p>
+            The various tasks that I completed during this time included but
+            were not limited to the following:
+          </p>
+          <ul className="ul-1">
+            <li className="li-1">
+              Created a low-fidelity wireframe for the revamped
+              &quot;Dashboard&quot; page, which has now been renamed to the
+              &quot;Home&quot; page.
+            </li>
+            <li className="li-1">
+              Created a custom HTML element for the sidebar, this was done to
+              minimize code duplication and ensure that the functionality,
+              visual appearance, and responsiveness of the sidebar was
+              consistent across each of the different web pages.
+            </li>
+            <li className="li-1">
+              Refactored code for various HTML files and CSS files to remove
+              redundant code and patch several visual bugs which included
+              elements in certain webpages not appearing at their correct
+              positions.
+            </li>
+            <li className="li-1">
+              Decided on which information should be displayed on the &quot;Know
+              your team&quot; page for each of the end user's
+              teammates/colleagues.
+            </li>
+            <li className="li-1">
+              Fixed an issue involving the charts on the home page being
+              displayed at incorrect positions.
+            </li>
+            <li className="li-1">
+              Finished setting up a bundler for the web application project, I
+              decided that it might be best to use a bundler such as Vite to
+              simplify the process of importing and exporting functionality from
+              various JS files that the web application relied on.
+            </li>
+            <li className="li-1">
+              Came up with a new schema for the database that the web
+              application would be fetching data from.
+            </li>
+            <li className="li-1">
+              Planned out the schema and overall structure for each of the
+              tables in the aforementioned database.
+            </li>
+            <li className="li-1">
+              Inserted mock data into the database that would be used for both
+              testing and demonstrational purposes.
+            </li>
+            <li className="li-1">
+              Removed the &quot;Trainings&quot; option from the sidebar
+              displayed in the web application.
+            </li>
+            <li className="li-1">
+              Finished implementing the functionality for the &quot;Know your
+              team&quot; page of the web application.
+            </li>
+            <li className="li-1">
+              Finished implementing the functionality for the &quot;Home&quot;
+              page of the web application.
+            </li>
+            <li className="li-1">
+              Patched a visual bug involving the sidebar not being displayed
+              correctly in the web application.
+            </li>
+            <li className="li-1">
+              Implemented dynamic data retrieval and data visualization for the
+              &quot;Know your team&quot; page of the web application.
+            </li>
+            <li className="li-1">
+              Implemented a feature that would allow the browser to cache the
+              end user's staff ID (only while they are logged in to their
+              account).
+            </li>
+            <li className="li-1">
+              Conducted the final tests to ensure that the Kato web application
+              was responsive and usable on both devices with larger screens
+              (i.e. computers) and devices with smaller screens (i.e. mobile
+              phones and tablets).
+            </li>
+            <li className="li-1">
+              Liaised with the other members of my team to estimate progress
+              towards the completion of each component of the project (i.e. the
+              Kato web application and the Kato Discord chatbot) and allocated
+              tasks to each of them accordingly.
+            </li>
+            <li className="li-1">
+              Patched several backend-related bugs which were in turn leading to
+              several other issues in the web application (i.e. issues that were
+              preventing end users from logging in to their account, viewing
+              certain information, performing certain actions, and viewing
+              certain webpages and content).
+            </li>
+          </ul>
+          <h2>Trello Board</h2>
+          <p>
+            <CaptionedImage
+              src={Week15TrelloBoardSnapshot1}
+              alt="image"
+              caption="A snapshot of the first part of my team's Trello board for the PFD project, taken during Week 15."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={Week15TrelloBoardSnapshot2}
+              alt="image"
+              caption="A snapshot of the second part of my team's Trello board for the PFD project, taken during Week 15."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={Week15TrelloBoardSnapshot3}
+              alt="image"
+              caption="A snapshot of the third part of my team's Trello board for the PFD project, taken during Week 15."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={Week15TrelloBoardSnapshot4}
+              alt="image"
+              caption="A snapshot of the fourth part of my team's Trello board for the PFD project, taken during Week 15."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={Week15TrelloBoardSnapshot5}
+              alt="image"
+              caption="A snapshot of the fifth part of my team's Trello board for the PFD project, taken during Week 15."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={Week15TrelloBoardSnapshot6}
+              alt="image"
+              caption="A snapshot of the sixth part of my team's Trello board for the PFD project, taken during Week 15."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={Week15TrelloBoardSnapshot7}
+              alt="image"
+              caption="A snapshot of the seventh part of my team's Trello board for the PFD project, taken during Week 15."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={Week15TrelloBoardSnapshot8}
+              alt="image"
+              caption="A snapshot of the eighth part of my team's Trello board for the PFD project, taken during Week 15."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={Week15TrelloBoardSnapshot9}
+              alt="image"
+              caption="A snapshot of the ninth part of my team's Trello board for the PFD project, taken during Week 15."
+            />
+          </p>
+          <p>
+            <CaptionedImage
+              src={Week15TrelloBoardSnapshot10}
+              alt="image"
+              caption="A snapshot of the tenth part of my team's Trello board for the PFD project, taken during Week 15."
             />
           </p>
         </BlogPostView>
